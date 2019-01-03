@@ -38,4 +38,11 @@ figcaption {
   text-shadow: 0 2px 3px #000;
 }
 
-/* ID selector*/
+/* ID selector (applied to one element per page) */
+
+#logo {
+  
+}
+
+}
+
